@@ -1,0 +1,12 @@
+.toast-container {
+    border: 1px solid red;
+    background-color: lightpink;
+    color: red;
+    text-align: center;
+    cursor: pointer;
+    font-size: 18px;
+    max-width: 512px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 4px;
+}

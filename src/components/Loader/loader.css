@@ -1,0 +1,17 @@
+.loader-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.App-logo {
+    height: 100px;
+}
+  
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 2s linear;
+    }
+}
