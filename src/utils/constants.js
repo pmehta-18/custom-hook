@@ -1,1 +1,1 @@
-export const ENDPOINT = "https://api.publicapis.org/entries?category12=";
+export const ENDPOINT = "https://api.publicapis.org/entries?category=animals";
